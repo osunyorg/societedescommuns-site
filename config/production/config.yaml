@@ -2,6 +2,11 @@
 
 baseURL: https://societedescommuns-societe-des-communs.web.deuxfleurs.fr
 
+## OSUNY
+osuny:
+  website:
+    id: eaf20dca-985d-4ee5-9655-7b8640bd4d9e
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
